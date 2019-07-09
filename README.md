@@ -1,4 +1,7 @@
 # BeeBrain - A Face Recognition App
+
+Demo: https://bee-brain.herokuapp.com/  
+
 Modified from [this udemy course](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
 
 1. Clone this repo
